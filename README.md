@@ -2,6 +2,9 @@
 
 This project is a clone of the Razorpay website. It showcases the user interface and design of the Razorpay payment gateway using HTML and Tailwind CSS.
 
+## Link
+https://razorpay-cloned.netlify.app/
+
 ## Features
 
 - **Razorpay Payment Gateway**: The project replicates the user interface and design of the Razorpay payment gateway, providing a realistic visual representation.
