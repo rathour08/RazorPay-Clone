@@ -36,7 +36,7 @@ For more information about Razorpay and to learn more about their payment gatewa
 
 ## Contributions
 
-This project was solely developed during a [web development bootcamp](https://github.com/abhiXsliet/webDevelopment-Bootcamp) to practice HTML and CSS skills. Contributions are not expected as this project serves as a learning exercise. However, if you have any suggestions or improvements, feel free to share them and open a pull request.
+This project was solely developed during a [web development bootcamp] to practice HTML and CSS skills. Contributions are not expected as this project serves as a learning exercise. However, if you have any suggestions or improvements, feel free to share them and open a pull request.
 
 ## License
 
